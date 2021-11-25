@@ -693,7 +693,11 @@ u-text-center{text-align: center !important;}
     	top: 380px;
     }
 }
-
+@media (max-width:480px){
+	 .work-item .col-sm-5:nth-child(odd){
+    	top: 300px;
+    }
+}
 /*contact*/
 .contact{
 	background-color:#CBD7D4 ;
