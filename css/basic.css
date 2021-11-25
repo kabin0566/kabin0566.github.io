@@ -695,7 +695,7 @@ u-text-center{text-align: center !important;}
 }
 @media (max-width:480px){
 	 .work-item .col-sm-5:nth-child(odd){
-    	top: 300px;
+    	top: 360px;
     }
 }
 /*contact*/
