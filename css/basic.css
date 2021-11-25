@@ -688,6 +688,11 @@ u-text-center{text-align: center !important;}
  
 
 }
+@media (max-width:540px){
+	 .work-item .col-sm-5:nth-child(odd){
+    	top: 380px;
+    }
+}
 
 /*contact*/
 .contact{
