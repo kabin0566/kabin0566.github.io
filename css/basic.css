@@ -698,6 +698,11 @@ u-text-center{text-align: center !important;}
     	top: 360px;
     }
 }
+@media (min-width:300px){
+	 .work-item .col-sm-5:nth-child(odd){
+    	top: 275px;
+    }
+}
 /*contact*/
 .contact{
 	background-color:#CBD7D4 ;
