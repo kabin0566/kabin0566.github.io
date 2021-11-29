@@ -369,6 +369,11 @@ u-text-center{text-align: center !important;}
 		font-size: 28px;
 	}
 }
+@media (max-width: 420px){
+	.popup-menu_item{
+		font-size: 20px;
+	}
+}
 /*hero*/
 .hero{
 	border: 1px solid #000000;
